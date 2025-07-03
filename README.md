@@ -1,2 +1,2 @@
 # Curso_Python
-ejercicios de Python
+Ejercicios de progremacion en el lenguaje Python para mejorar logica de programacion
